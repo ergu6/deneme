@@ -51,7 +51,9 @@ git init= Bu komut, bulunduğunuz dizini bir Git repository‘si haline getirir 
 git adında bir dizin oluşturur.
 
 --GİT KULLANIMI--
-- ilk olarak dosyaları takibe alman gerek. bunu "git add" ile yapıcaksın örnek olarak: git add index.html. bu şekilde takibe alabilirsin
+- ilk olarak projeyi bir init yapıcaz yani git yapıcaz. Bunun için GİT BASH VEYE VSC TERMİNALİ İLE komut alanına "GİT İNİT" yazmalısın. 
+
+Daha sonradosyaları takibe alman gerek. bunu "git add" ile yapıcaksın örnek olarak: git add index.html. bu şekilde takibe alabilirsin
 
 -ikinci adım olarak status ile değişiklikleri kontrol ede bilirsin onuda "git status" yazarak yapabilirsin.Git diff ile bütün değişiklikleri görebilirsin.
 
