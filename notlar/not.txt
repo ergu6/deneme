@@ -50,6 +50,9 @@ git init= Bu komut, bulunduğunuz dizini bir Git repository‘si haline getirir 
 
 git adında bir dizin oluşturur.
 
+git merge= git merge ile branch leri birleştire bilirsin kullanımı örnek olarak vsc terminalinde: il olarak birleştireceğiniz (kodların geçeceği merge geçiş yapalım) git checkout master
+ardından git merge eren(birleştireceğiniz branch benim şuan eren) bu işlemin ardından birleşmiş olacaktır.
+
 --GİT KULLANIMI--
 - ilk olarak projeyi bir init yapıcaz yani git yapıcaz. Bunun için GİT BASH VEYE VSC TERMİNALİ İLE komut alanına "GİT İNİT" yazmalısın. 
 
