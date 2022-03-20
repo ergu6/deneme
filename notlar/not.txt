@@ -53,5 +53,11 @@ git adında bir dizin oluşturur.
 --GİT KULLANIMI--
 - ilk olarak dosyaları takibe alman gerek. bunu "git add" ile yapıcaksın örnek olarak: git add index.html. bu şekilde takibe alabilirsin
 
--ikinci adım olarak status ile değişiklikleri kontrol ede bilirsin onuda "git status" yazarak yapabilirsin.
+-ikinci adım olarak status ile değişiklikleri kontrol ede bilirsin onuda "git status" yazarak yapabilirsin.Git diff ile bütün değişiklikleri görebilirsin.
+
+-üçüncü adım bunları yayınlamak doğrulamak her ne dersen.komut "git commit"bu komudun direkt olarak uzun halinide kullana bilirsin ama kısa kullanmak daha iyi kullanımı şu şekilde "git commid -m "index.html". -m den sonrasını yazma amacığımız kısa yoldan açıklama girip kaydetmektir.
+
+--BU KOMUTLARI VİSUAL STUDİO CODE TERMİNAL İLE KULLANA BİLİRSİN--
+"Yada GİT BASH ile"
+
 
