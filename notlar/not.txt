@@ -33,4 +33,25 @@ CTRL + SHIFT + SOL YÖN TUŞU = Bir ifadenin tamamını seçmek istediğinizde o
 ctrl+shift yön tuşları ile metinleri seçebilirsin, alt yön tüşları ile seçili olan metini taşıyabilirsin, ctrl+d ile seçili olan metin ile benzer olanları seçebilirsin örnek: havaalanı parkalanı duşalanı. örneklerdeki "alanı" kelimesini birisinden seçip ctrl d ile hepsinden seçebilirsin ve toplu değiştire bilirsin
 -
 -
+--GİT KOMUTLAR--
+Git status = projede neler değişmiş
+
+git push = uzak sunucu,pc ye gönder
+
+git pull= push un ta tersi uzak pc den alma
+
+git checkout= projede birden fazla iç içe yapı çalışıyorsa geçiş yapa biliyorsun
+
+git clone = projenin kopyasını yapmak için
+
+git add = komutu mevcut dizindeki tüm dosyaları dizine ekler. “Git add dosya.txt” komutu mevcut dizindeki “dosya.txt” dosyasını dizine ekler.
+
+git init= Bu komut, bulunduğunuz dizini bir Git repository‘si haline getirir ve .
+
+git adında bir dizin oluşturur.
+
+--GİT KULLANIMI--
+- ilk olarak dosyaları takibe alman gerek. bunu "git add" ile yapıcaksın örnek olarak: git add index.html. bu şekilde takibe alabilirsin
+
+-ikinci adım olarak status ile değişiklikleri kontrol ede bilirsin onuda "git status" yazarak yapabilirsin.
 
