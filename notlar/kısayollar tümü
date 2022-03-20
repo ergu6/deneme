@@ -1,0 +1,50 @@
+F2 =  İmlecin üzerinde bulunduğu tanımın kendisine gidiyor. Değişken ise tanımlandığı alana gidiyor. Metod ise metodun kendisine gidiyor.
+
+F5 =  Projeyi çalıştırır
+F6 =  Projeyi build eder.
+
+CTRL + PAUSE/BREAK = Build etme esnasında build işlemini iptal eder. 
+CTRL + ALT + F7 = Build işlemini iptal eder.
+
+F9 =  İmlecin bulunduğu satıra BreakPoint atar.
+F10 = Kodları izlerken metodların içerisinde girmeden devam eder.
+F11 = Kodları izlerken metodların içerisinde girerek devam eder. (Tüm adımları takip etmek için.)
+
+SHIFT + F5 = Debug Modunu durdurur.
+
+CTRL + ENTER = İmlecin bulunduğu satırın üstüne bir satır açar.
+TAB = Kodu yazmaya başladığınızda kodun devamını tamamlar.
+TAB + TAB = FOR yazıp TAB + TAB yaptığınızda FOR döngüsünün geri kalan kısımlarını otomatik yazar.
+
+CTRL + SPACE = Kodu yazmaya başladığınızda yazdığınız harfler ile başlayan kodların listesini gösterir. İstediğiniz kod görünmüyorsa ilgili NamaSpace i projeye eklememişsinizdir. Liste açılmıyorsa bazen nedense takılıyor. 
+
+CTRL + K + S = Yazdığınız kodları IF, TRY, FOR gibi kontrol ve döngü bloklarının arasına almak için, kodları seçip bu kısayolu kullandığınızda size bir liste açar ve siz o listeden istediğiniz komutu seçersiniz. Bu şekilde seçtiğiniz tüm kodları seçtiğiniz kontrol veya döngü ile çevreler. SURROUND
+
+CTRL + K + D = Sayfadaki tüm kodları düzenler. Herhangi satırda hata var ise düzenleme yapmaz. Önce o hatayı gidermelisiniz.
+
+CTRL + M + M = Çalıştığınız kod bloğunu kapatır. Aynı işlem tekrar açar.
+CTRL + M + O = Sayfadaki tüm kod bloklarını kapatır.
+CTRL + M + L = Sayfadaki tüm kod bloklarını namespace' e kadar kapatır.
+CTRL + M + X = Sayfadaki tüm kod bloklarını açar.
+
+CTRL + K + C = imlecin bulunduğu yada seçtiğiniz satrıları yorum satırı yapar.
+
+CTRL + K + U = imlecin bulunduğu yada seçtiğiniz satrıları yorum satırından çıkarır.
+
+CTRL + L = İmlecin bulunduğu satırı siler ve kopyalar.
+
+SHIFT + DELETE = İmlecin bulunduğu satırı siler ve kopyalar.
+
+CTRL + INSERT = Kopyalanan kodu yapıştırır. CTRL + V ile aynı işi yapar.
+
+CTRL + SHIFT + ENTER = Programı tam ekran yapar. Aynı işlem tam ekrandan çıkarır. Çift monitör kullanıyorsanız enfes oluyor
+
+CTRL + F = Kodlarda arama yapma penceresini açar. Pence sağ üstte açılır orada arama alanını genişletebilirsiniz.
+
+CTRL + H = Bul ve değiştir penceresini açar
+
+CTRL + G = İstenen satıra gider.
+
+CTRL + SHIFT +UP/DOWN = Bir değişken veya tanım üzerinde tıklayın ve CTRL + SHIFT tuşlarına basılı tutun. Sayfadaki tüm ilgili değişkenin isimlerini seçecektir. Yön tuşları ile bu seçilenler arasında gezebilirsiniz.
+
+SHIFT + ALT + YÖN TUŞLARI = SHIFT + ALT tuşlarını basılı tutarak mouse veya yön tuşları ile dikey seçim yapıp kopyalama yapabilirsiniz. Buna daha çok stun seçimi diyebiliriz. Aşağıdaki gif' te uygulamasını görebilirsiniz.

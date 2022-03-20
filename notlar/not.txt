@@ -1,0 +1,36 @@
+ul>li*10 = ul nin içerisine 10 tane alt alta <li><li> açar başına örnek div> yazılırsa div in içindeki ul nin içine alt alta 10 adet li yazar 
+-
+-
+
+ctrl+tab sayfalar arası geçiş örnek: main.js > index.html
+-
+-
+
+ctrl+b sol taraftaki menüyü açıp kapatır
+-
+-
+
+ctrl+w dosyayı kapatır *üst traftan ctrl+p ile açılır
+-
+-
+
+alt a basılı tutarak multiCursor(çoklu imleç) kullanabilirsin. bu sayede metilerde yerini alt a basılı tutup seçip yazı yazabilirsin. toplu seçim için shift+alt ile klavye ile seçim için shift sağ sol ok tuşları. aynı mettini çoğaltmak için shift+alt yön tuşları
+-
+-
+
+ctrl-p = dosyaları görme
+ctrl w = dosyayı kapatma
+ctrl b = sol menü kapama
+ctrl shift p = ayarlar
+yazıyı seçip alt = aşağı yukarı sürükleme
+alt shift = seçili kodu kopyalama
+ctrl enter = satır açma
+ctrl d = aynı yazıların hepsi seçildi (mülticurse özelliği)
+CTRL + SHIFT + SOL YÖN TUŞU = Bir ifadenin tamamını seçmek istediğinizde o ifadenin sonuna gelerek CTRL + SHIFT + SOL YÖN TUŞU kombinasyonunu kullanabilirsiniz.
+-
+-
+
+ctrl+shift yön tuşları ile metinleri seçebilirsin, alt yön tüşları ile seçili olan metini taşıyabilirsin, ctrl+d ile seçili olan metin ile benzer olanları seçebilirsin örnek: havaalanı parkalanı duşalanı. örneklerdeki "alanı" kelimesini birisinden seçip ctrl d ile hepsinden seçebilirsin ve toplu değiştire bilirsin
+-
+-
+
